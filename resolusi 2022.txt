@@ -1,0 +1,6 @@
+RESOLUSI 2022
+1. BELAJAR KODING
+  - html
+  - css
+  - logika untuk pemrograman
+  - membuat web
